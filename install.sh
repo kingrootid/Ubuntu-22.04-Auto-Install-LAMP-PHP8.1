@@ -15,7 +15,7 @@ sudo apt update
 apt-add-repository universe
 
 # Install PHP 8.1 and necessary extensions
-sudo apt install -y php8.1 php8.1-{common,cli,gd,mysql,mbstring,bcmath,xml,fpm,curl,zip}  tar unzip git redis-server
+sudo apt install -y php8.3 php8.3-{common,cli,gd,mysql,mbstring,bcmath,xml,fpm,curl,zip}  tar unzip git redis-server
 
 
 
